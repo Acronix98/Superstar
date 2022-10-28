@@ -1,2 +1,2 @@
 # Superstar
-Superstar is a of Super Mario mod for NSML created by Acronix98.
+Superstar is a Super Mario mod for NSML created by Acronix98.
