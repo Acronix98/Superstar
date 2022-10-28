@@ -1,2 +1,2 @@
 # Superstar
-The Superstar Trilogy is a seires of Super Mario mods for NSML created by Acronix98.
+Superstar is a of Super Mario mod for NSML created by Acronix98.
