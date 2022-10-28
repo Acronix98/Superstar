@@ -1,2 +1,2 @@
 # Superstar
-Superstar is a Super Mario Odyssey mod for NSML created by Acronix98.
+Superstar is a Super Mario Odyssey and Super Mario 3D World + Bowser's Fury mod for NSML created by Acronix98.
